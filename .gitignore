@@ -1,0 +1,21 @@
+# Ignore GitHub Actions runner files
+.credentials
+.credentials_rsaparams
+.env
+.path
+.runner
+_diag/
+actions-runner/
+actions-runner-linux-x64-2.329.0.tar.gz
+bin/
+config.sh
+env.sh
+
+run-helper.cmd.template
+run-helper.sh
+run-helper.sh.template
+run.sh
+safe_sleep.sh
+svc.sh
+php.ini
+
