@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "LAPTOP-UIEU9Q4T",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/g4YFwH4bL83MgI4nNYjNdKymbUPSGGZeiqXQxPZcezEOS6s5BZ/",
+  "gitHubUrl": "https://github.com/muhammadaufarafiqi/projectWAP",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
